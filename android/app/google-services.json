@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205020932378",
+    "project_id": "cncshop-88df4",
+    "storage_bucket": "cncshop-88df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205020932378:android:f2ee57061c712cb130a4a3",
+        "android_client_info": {
+          "package_name": "com.cncx.cnc_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205020932378-rf01275hm8gshda6v9a08erc1op5ng44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEmIvmtphqu-Jpfrq41fpuB3ejQ1_PgK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205020932378-rf01275hm8gshda6v9a08erc1op5ng44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
